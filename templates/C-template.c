@@ -4,10 +4,12 @@
  * Yatharth Manocha
  * yathman97@gmail.com
  *
- * Problem Name - 
- * Problem Code - 
+ * <Host> - <Practice/Contest> - <Difficulty> // Codechef - Practice - Easy
  * 
- * Link to Problem - 
+ * Problem Code - 
+ * <Problem Name>
+ * 
+ * Link - 
  *
  */
  
@@ -42,7 +44,7 @@
 #define TESTS wez(testow); while(testow--) //for multilple cases problems
 #define whileZ int T; getI(T); while(T--) // the same as above
 
-#define printA(a,L,R) FE(i,L,R) { printf("%d", a[i]); (i==R?printf("\n"):printf(' ')); } // to Print Array
+#define printA(a,L,R) FE(i,L,R) { printf("%d", a[i]); (i==R?printf("\n"):printf(" ")); } // to Print Array
 
 #define getS(x) scanf("%s", x) //get a char* string
 #define clr(a,x) memset(a,x,sizeof(a)) //set elements of array to some value

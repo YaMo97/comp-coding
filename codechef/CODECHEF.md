@@ -8,6 +8,8 @@ _Format: 1. Little Elephant and Permutations - lepermut.c - C language - https:/
 
 ### Easy
 
+1. Little Elephant and Permutations - lepermut.c - C language - https://www.codechef.com/problems/LEPERMUT
+
 ### Medium
 
 ### Hard
